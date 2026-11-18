@@ -60,7 +60,6 @@ Data: [football-data.co.uk](https://www.football-data.co.uk/) – one CSV per se
 - One of the files I downloaded had the wrong season inside (2025/26 instead of 2024/25).
   I noticed it because El Clásico showed games from 2025 and 2026 under the 2024/25 season.
   I removed the file from the stage, downloaded the right one and loaded the data again.
-- Windows hid the file extension, so my files were called `laliga_2020_21.csv.csv`.
 - Running the whole SQL file only shows the result of the last query, so I learned to run queries one by one.
 
 ## Limitations
